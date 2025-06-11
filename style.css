@@ -28,8 +28,12 @@ body {
     align-items: center;
 }
 
-picture {
+figure {
     position: relative;
+}
+
+picture {
+    width: 100%;
 }
 
 .overlay {
@@ -129,7 +133,7 @@ h1 {
         width: 60%;
     }
 
-    picture {
+    figure {
         width: 40%;
     }
 
@@ -163,7 +167,7 @@ h1 {
         }
     }
 
-    picture{
+    figure {
         width: 50%;
     }
 
